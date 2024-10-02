@@ -1,0 +1,10 @@
+v 4
+file . "paralleltoserial.vhd" "cecb14e410af8e4593d2a693a79d653477137e87" "20241002173020.329":
+  entity paralleltoserial at 1( 0) + 0 on 15;
+  architecture structural of paralleltoserial at 16( 340) + 0 on 16;
+file . "reg_n.vhd" "f29fed613662086b672dc9bb16588a6856dc61bd" "20241002172949.991":
+  entity reg_n at 1( 0) + 0 on 11;
+  architecture behavioral of reg_n at 16( 294) + 0 on 12;
+file . "serialtoparallel.vhd" "ad3dd60456d39419ea0f87a55225b2e89d1ef88b" "20241002173005.108":
+  entity serialtoparallel at 1( 0) + 0 on 13;
+  architecture structural of serialtoparallel at 16( 301) + 0 on 14;
